@@ -1,5 +1,7 @@
 # USA Flights Graphs
 
+Segundo trabalho da Disciplina de Banco de Dados, do 2º período da Graduação em Ciência de Dados da EMAp-FGV.
+
 ## Grupo
 
 Igor Cortes Junqueira
